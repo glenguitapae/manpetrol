@@ -1,0 +1,210 @@
+#suiteBar {
+    z-index: 10000 !important
+}
+#s4-bodyContainer > div > header > nav {
+    display: block;
+    position: relative;
+    height: 0;
+}
+#suiteBar img {
+    max-width: none !important
+}
+
+.ms-core-menu-box {
+    z-index: 10001 !important
+}
+
+.ms-siteactions-normal {
+    background-color: transparent !important
+}
+
+#ms-help {
+    visibility: hidden !important
+}
+
+#s4-ribbonrow {
+    height: 0 !important;
+    z-index: 10000 !important;
+    display:none;
+}
+
+#s4-ribbonrow img {
+    max-width: none !important
+}
+
+#DeltaPageStatusBar {
+    z-index: 999999 !important
+}
+
+#DeltaPageStatusBar img {
+    max-width: none !important
+}
+
+input[type=button]:hover,input[type=reset]:hover,input[type=submit]:hover,button:hover {
+    /* Versión corregida 2022-03-03
+    border-color: transparent !important;
+    background-color: transparent !important */
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.ms-cui-menu {
+    z-index: 10001 !important
+}
+
+.ms-cui-menu img {
+    max-width: none !important
+}
+
+.ms-dlgContent {
+    z-index: 10000 !important
+}
+
+#dlgTitleBtns {
+    margin: 0 auto !important
+}
+
+#dialogTitleSpan {
+    line-height: 1.5 !important
+}
+
+.ms-core-form-bottomButtonBox>input {
+    width: auto !important;
+    margin-bottom: 0 !important;
+    max-width: none !important
+}
+
+.ms-webpart-cell-horizontal {
+    display: table-row !important
+}
+
+.ms-webpart-zone-title {
+    padding-top: 150px !important
+}
+
+.ms-webpart-menuArrowSpan img {
+    max-width: none !important
+}
+
+.ms-cursorDefault {
+    display: block !important;
+    visibility: visible !important
+}
+
+.titulo-energia {
+    line-height: 50px !important
+}
+
+nav .text-extra-dark-gray {
+    color: #232323 !important
+}
+
+section .topseccion {
+    line-height: 50px !important
+}
+
+section .text-white {
+    color: #fff !important
+}
+
+section .text-white:visited {
+    color: #fff
+}
+
+section .text-extra-dark-gray {
+    color: #232323 !important
+}
+
+section .text-dark-gray {
+    color: #626262 !important
+}
+
+section .text-light-gray {
+    color: #d6d5d5 !important
+}
+
+section h4 {
+    line-height: 46px;
+    color: inherit !important
+}
+
+section p {
+    margin: 0 0 25px !important;
+    line-height: 24px 
+}
+
+section .btn-dark-gray.btn {
+    color: #fff;
+}
+
+section .center-col {
+    margin-left: auto !important;
+    margin-right: auto !important
+}
+
+.btn.btn-transparent-white {
+    color: #fff !important
+}
+
+
+
+
+
+button {
+    min-width: auto !important
+}
+
+.fix-page-layout input[type="checkbox"] {
+    width: auto !important
+}
+
+.fix-page-layout .ms-formfieldlabel {
+    border: 0 !important
+}
+
+.fix-page-layout .ms-rtestate-write {
+    width: 100% !important
+}
+
+.subtitulo {
+    font-size: 1.75rem;
+    color: #000;
+    margin-bottom: 9px
+}
+
+.subtitulo.bold {
+    font-weight: bold
+}
+
+.big-input,.big-textarea,.big-select select {
+    padding: 18px 25px !important
+}
+
+.ms-input-placeholder {
+    color: #6f6f6f !important
+}
+
+.btn.btn-transparent-dark-gray:hover,.btn.btn-transparent-dark-gray:focus {
+    background: #232323 !important;
+    border-color: #232323 !important;
+    color: #fff !important
+}
+
+#error-project-contact-form {
+    clear: both;
+    margin: 0 15px 15px;
+    text-align: center;
+    border: 1px solid #f00;
+    color: #f00;
+    padding: 2px 0;
+    display: none;
+    font-size: 11px
+}
+
+#project-contact-form input {
+    border: 1px solid #d1d1d1 !important
+}
+
+#s4-bodyContainer {
+    padding-bottom: 0px !important;
+}
